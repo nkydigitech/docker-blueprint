@@ -1,0 +1,61 @@
+site_name: Docker Blueprint — Zero to Hero
+site_description: From docker run to multi-stage builds — 10 hands-on labs + capstone with Nigerian-context analogies.
+site_author: Nkechi Anna Ahanonye (NkyDigTech)
+repo_url: https://github.com/nkydigitech/docker-blueprint
+repo_name: nkydigitech/docker-blueprint
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji
+
+nav:
+  - Home: index.md
+  - Labs:
+    - Lab 01 Intro: labs/lab01-intro.md
+    - Lab 02 Images vs Containers: labs/lab02-images.md
+    - Lab 03 Dockerfile: labs/lab03-dockerfile.md
+    - Lab 04 Volumes: labs/lab04-volumes.md
+    - Lab 05 Networking: labs/lab05-networking.md
+    - Lab 06 Compose: labs/lab06-compose.md
+    - Lab 07 Env & Secrets: labs/lab07-env.md
+    - Lab 08 Multi-Stage: labs/lab08-multistage.md
+    - Lab 09 Hub & Optimization: labs/lab09-hub.md
+    - Lab 10 Logs & Debug: labs/lab10-debug.md
+  - Capstone: capstone.md
+  - Cheat Sheet: cheatsheet.md
+  - About: about.md
+
+plugins:
+  - search
