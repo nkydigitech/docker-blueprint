@@ -218,7 +218,7 @@ docker-blueprint/
 | 3 | [aws-blueprint](https://github.com/nkydigitech/aws-blueprint) | Amazon Web Services | ✅ Live |
 | 4 | [azure-blueprint](https://github.com/nkydigitech/azure-blueprint) | Microsoft Azure | ✅ Live |
 | 5 | [kubernetes-blueprint](https://github.com/nkydigitech/kubernetes-blueprint) | Container Orchestration | ✅ Live |
-| 6 | [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Linux Command Line | 🚧 Coming Soon |
+| 6 | [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Linux Command Line | ✅ Live |
 | 7 | [github-blueprint](https://github.com/nkydigitech/github-blueprint) | Git & GitHub | 🚧 Coming Soon |
 | 8 | docker-blueprint | Containerization | 🚧 Coming Soon |
 
@@ -231,7 +231,7 @@ docker-blueprint/
 | 3 | [aws-blueprint](https://github.com/nkydigitech/aws-blueprint) | Cloud | ✅ Live |
 | 4 | [azure-blueprint](https://github.com/nkydigitech/azure-blueprint) | Cloud | ✅ Live |
 | 5 | [kubernetes-blueprint](https://github.com/nkydigitech/kubernetes-blueprint) | Orchestration | ✅ Live |
-| 6 | [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Fundamentals | 🚧 Coming Soon |
+| 6 | [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Fundamentals | ✅ Live |
 | 7 | [github-blueprint](https://github.com/nkydigitech/github-blueprint) | Version Control | 🚧 Coming Soon |
 | 8 | **docker-blueprint** | Containers | ✅ Live |
 | 9 | [bash-scripting-blueprint](https://github.com/nkydigitech/bash-scripting-blueprint) | Scripting | 🚧 Coming Soon |
